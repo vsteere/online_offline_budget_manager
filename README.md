@@ -11,5 +11,5 @@ As an added feature, it uses Service Worker and IndexedDB technologies so the us
 
 ## Links
 GitHub Repository: https://github.com/vsteere/online_offline_budget_manager
-Deployed Application :
+Deployed Application :https://secret-eyrie-63779.herokuapp.com/
 
